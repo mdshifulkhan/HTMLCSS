@@ -1,0 +1,13 @@
+    
+    }
+    
+    }
+    body{background-color: lightblue;}
+    h1{
+      background-color: darkred;
+      color: black;text-align: center;}
+      h2{ background-color: lightblue; color: red;border: 45px black;
+      }
+
+p{ border: 150px;grid-template-columns: !important}
+
